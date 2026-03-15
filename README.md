@@ -29,6 +29,10 @@ Students are advised to proceed methodically and avoid skipping steps while revi
 
 ---
 
+### Hint 
+
+Try rearranging the files and read the readme well. 
+
 Sometimes patterns appear like a path:
 
 Take your time.
