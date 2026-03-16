@@ -25,7 +25,7 @@ The structure of this folder follows a deliberate sequence. Attention to order c
 
 Students are advised to proceed methodically and avoid skipping steps while reviewing shared academic resources.
 
-6. Small clues may appear ordinary, but when viewed together, they point toward something specific.
+5. Small clues may appear ordinary, but when viewed together, they point toward something specific.
 
 ---
 
